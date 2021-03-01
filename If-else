@@ -1,0 +1,4 @@
+if (label1.visible == true)
+  label1.visible = false;
+else
+  label1.visible = true;
